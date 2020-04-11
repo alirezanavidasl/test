@@ -1,8 +1,9 @@
 CED 			Constrained Edit Distance
 ED 			Edit Distance
 FTWC 			Fixed Time Window Constraint
-GED 			General Edit Distance
+GED 		sssssssssssssssssssssssssss
 GT 			Ground Truth
 LPR 			License Plate Recognition
 LP 			Learning Process
 VTWC 			Varying Time Window Constraint 
+
